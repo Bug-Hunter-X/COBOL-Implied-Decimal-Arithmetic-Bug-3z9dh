@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a COBOL program involving the handling of implied decimal points (`V` in PIC clauses). The bug arises from incorrect data type handling during an arithmetic operation, potentially leading to inaccurate interest calculations. The solution involves explicit data type conversions to ensure proper handling of decimal points.
